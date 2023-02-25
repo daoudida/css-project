@@ -1,0 +1,25 @@
+.presentation,.formation1, .formation2, .formation3{
+background-image: url("1675466023078.jpg");
+    padding: 0;
+    margin-left: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-width: 90px;
+    font-size:large;
+    letter-spacing: 1px;
+    display: block;
+    text-shadow: black;
+    font-weight:bold;
+    color:blue;
+}
+footer{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 30px;
+    font-style: 20px;
+    color:blue;
+}
+a{
+    color:black;
+}
+
